@@ -163,8 +163,9 @@ I like to keep all the configurations for the app in a separate folder. Let’s 
 $ mkdir config
 $ cd config
 ```
-Now, Create a new file database.config.js inside config folder -
-*note* create you're own collection in MongoDB first and then link it as appropriate 
+Now, Create a new file database.config.js inside config folder
+
+*note* create youre own collection in MongoDB first and then link it as appropriate with the correct name
 
 Ex.
 ```bash
