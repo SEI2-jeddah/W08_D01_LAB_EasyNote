@@ -1,7 +1,7 @@
 # EasyNotes
 
 ## RESTful CRUD (Create, Retrieve, Update, Delete) API with Node.js, Express and MongoDB/Mongoose
-*This lab is based on [callicoder](https://www.callicoder.com/)*
+*This lab is based on [callicoder](https://github.com/callicoder)*
 
 __________
 1. We will be building a simple Note-Taking application with Rest APIs for creating, listing, editing and deleting a Note.
