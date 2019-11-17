@@ -527,5 +527,11 @@ exports.delete = (req, res) => {
 ![](https://www.callicoder.com/assets/images/post/large/node-express-mongoose-rest-crud-api-delete-a-note.jpg)
 
 
+### Bonus 
+
+Using ejs : 
+- Add views for show , delete, edit , new 
+
+
 
 
