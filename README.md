@@ -10,6 +10,7 @@ __________
 
 1. Finally, we’ll test our REST APIs using Postman.
 
+**Attempt to go through the lab without openning any of the hints !**
 <br> 
 
 ### Creating the Application
